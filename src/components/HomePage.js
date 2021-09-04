@@ -142,7 +142,7 @@ const HomePage = () => {
                 }} rowKey="id" dataSource={source} columns={columns}/> : <Skeleton active/>}
 
 
-            <Modal title={addNewCustomerMessage(language)} visible={openAddCustomer} footer={null}
+            <Modal centered title={addNewCustomerMessage(language)} visible={openAddCustomer} footer={null}
                    onCancel={() => setOpenAddCustomer(false)} destroyOnClose closable>
                 <>
                     <Form
@@ -168,7 +168,7 @@ const HomePage = () => {
                 </>
             </Modal>
 
-            <Modal title={<Space>
+            <Modal centered title={<Space>
                 <Typography.Text>{(selectedData.name).concat(" (").concat(selectedData.mobileNumber).concat(")")}</Typography.Text>
                 <Popconfirm
                     title={deleteCustomerMessage(language)}
