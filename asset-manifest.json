@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sharma-kirana-store-ui/static/css/main.bbb27b53.chunk.css",
-    "main.js": "/sharma-kirana-store-ui/static/js/main.91b3673a.chunk.js",
-    "main.js.map": "/sharma-kirana-store-ui/static/js/main.91b3673a.chunk.js.map",
+    "main.js": "/sharma-kirana-store-ui/static/js/main.41e2f57e.chunk.js",
+    "main.js.map": "/sharma-kirana-store-ui/static/js/main.41e2f57e.chunk.js.map",
     "runtime-main.js": "/sharma-kirana-store-ui/static/js/runtime-main.32d30433.js",
     "runtime-main.js.map": "/sharma-kirana-store-ui/static/js/runtime-main.32d30433.js.map",
     "static/css/2.786ae0dd.chunk.css": "/sharma-kirana-store-ui/static/css/2.786ae0dd.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.8c74a6e1.chunk.js",
     "static/css/main.bbb27b53.chunk.css",
-    "static/js/main.91b3673a.chunk.js"
+    "static/js/main.41e2f57e.chunk.js"
   ]
 }
